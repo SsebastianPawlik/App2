@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\bin\Debug\Odbijające się etykiety.exe.config
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\bin\Debug\Odbijające się etykiety.exe
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\bin\Debug\Odbijające się etykiety.pdb
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające_się_etykiety.Form1.resources
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające_się_etykiety.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.exe
+C:\Users\Praktykant\source\repos\Odbijające się etykiety\Odbijające się etykiety\obj\Debug\Odbijające się etykiety.pdb
