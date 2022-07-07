@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\bin\Debug\KrystynaObiad(Książka).exe.config
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\bin\Debug\KrystynaObiad(Książka).exe
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\bin\Debug\KrystynaObiad(Książka).pdb
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad_Książka_.Form1.resources
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad_Książka_.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).exe
+C:\Users\Praktykant\source\repos\KrystynaObiad(Książka)\KrystynaObiad(Książka)\obj\Debug\KrystynaObiad(Książka).pdb
