@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień_na_wyścigach.Form1.resources
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień_na_wyścigach.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\bin\Debug\Dzień na wyścigach.exe.config
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\bin\Debug\Dzień na wyścigach.exe
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\bin\Debug\Dzień na wyścigach.pdb
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.exe
+C:\Users\Praktykant\source\repos\Dzień na wyścigach\Dzień na wyścigach\obj\Debug\Dzień na wyścigach.pdb
