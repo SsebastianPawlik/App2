@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\bin\Debug\KrystynaPrzyjecie.exe.config
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\bin\Debug\KrystynaPrzyjecie.exe
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\bin\Debug\KrystynaPrzyjecie.pdb
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.Form1.resources
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.exe
+C:\Users\Praktykant\source\repos\KrystynaPrzyjecie\KrystynaPrzyjecie\obj\Debug\KrystynaPrzyjecie.pdb
