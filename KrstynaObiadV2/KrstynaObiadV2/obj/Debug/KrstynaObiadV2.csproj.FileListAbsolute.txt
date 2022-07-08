@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\bin\Debug\KrstynaObiadV2.exe.config
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\bin\Debug\KrstynaObiadV2.exe
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\bin\Debug\KrstynaObiadV2.pdb
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.Form1.resources
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.exe
+C:\Users\Praktykant\source\repos\KrstynaObiadV2\KrstynaObiadV2\obj\Debug\KrstynaObiadV2.pdb
