@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\bin\Debug\AplikacjaFarmera.exe.config
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\bin\Debug\AplikacjaFarmera.exe
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\bin\Debug\AplikacjaFarmera.pdb
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.Form1.resources
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.exe
+C:\Users\Praktykant\source\repos\AplikacjaFarmera\AplikacjaFarmera\obj\Debug\AplikacjaFarmera.pdb
