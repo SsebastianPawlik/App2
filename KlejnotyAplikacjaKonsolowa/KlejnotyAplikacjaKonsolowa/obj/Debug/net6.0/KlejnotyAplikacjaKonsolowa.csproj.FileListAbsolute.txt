@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\bin\Debug\net6.0\KlejnotyAplikacjaKonsolowa.exe
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\bin\Debug\net6.0\KlejnotyAplikacjaKonsolowa.deps.json
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\bin\Debug\net6.0\KlejnotyAplikacjaKonsolowa.runtimeconfig.json
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\bin\Debug\net6.0\KlejnotyAplikacjaKonsolowa.dll
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\bin\Debug\net6.0\KlejnotyAplikacjaKonsolowa.pdb
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.dll
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\refint\KlejnotyAplikacjaKonsolowa.dll
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.pdb
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\KlejnotyAplikacjaKonsolowa.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\KlejnotyAplikacjaKonsolowa\KlejnotyAplikacjaKonsolowa\obj\Debug\net6.0\ref\KlejnotyAplikacjaKonsolowa.dll
