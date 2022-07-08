@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.Form1.resources
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\bin\Debug\KrystynaUrodziny.exe.config
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\bin\Debug\KrystynaUrodziny.exe
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\bin\Debug\KrystynaUrodziny.pdb
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.exe
+C:\Users\Praktykant\source\repos\KrystynaUrodziny\KrystynaUrodziny\obj\Debug\KrystynaUrodziny.pdb
