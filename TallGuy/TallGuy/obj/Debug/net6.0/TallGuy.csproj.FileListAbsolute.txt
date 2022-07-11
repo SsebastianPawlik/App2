@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\bin\Debug\net6.0\TallGuy.exe
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\bin\Debug\net6.0\TallGuy.deps.json
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\bin\Debug\net6.0\TallGuy.runtimeconfig.json
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\bin\Debug\net6.0\TallGuy.dll
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\bin\Debug\net6.0\TallGuy.pdb
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.dll
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\refint\TallGuy.dll
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.pdb
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\TallGuy.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\TallGuy\TallGuy\obj\Debug\net6.0\ref\TallGuy.dll
