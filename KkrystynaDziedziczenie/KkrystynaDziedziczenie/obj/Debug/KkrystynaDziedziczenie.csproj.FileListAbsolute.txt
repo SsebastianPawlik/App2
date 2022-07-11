@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.Form1.resources
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\bin\Debug\KkrystynaDziedziczenie.exe.config
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\bin\Debug\KkrystynaDziedziczenie.exe
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\bin\Debug\KkrystynaDziedziczenie.pdb
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.exe
+C:\Users\Praktykant\source\repos\KkrystynaDziedziczenie\KkrystynaDziedziczenie\obj\Debug\KkrystynaDziedziczenie.pdb
