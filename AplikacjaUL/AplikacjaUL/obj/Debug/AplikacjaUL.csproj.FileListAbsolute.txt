@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\bin\Debug\AplikacjaUL.exe.config
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\bin\Debug\AplikacjaUL.exe
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\bin\Debug\AplikacjaUL.pdb
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.Form1.resources
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.exe
+C:\Users\Praktykant\source\repos\AplikacjaUL\AplikacjaUL\obj\Debug\AplikacjaUL.pdb
