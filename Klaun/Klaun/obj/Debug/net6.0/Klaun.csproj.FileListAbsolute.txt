@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Klaun\Klaun\bin\Debug\net6.0\Klaun.exe
+C:\Users\Praktykant\source\repos\Klaun\Klaun\bin\Debug\net6.0\Klaun.deps.json
+C:\Users\Praktykant\source\repos\Klaun\Klaun\bin\Debug\net6.0\Klaun.runtimeconfig.json
+C:\Users\Praktykant\source\repos\Klaun\Klaun\bin\Debug\net6.0\Klaun.dll
+C:\Users\Praktykant\source\repos\Klaun\Klaun\bin\Debug\net6.0\Klaun.pdb
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.dll
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\refint\Klaun.dll
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.pdb
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\Klaun.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\Klaun\Klaun\obj\Debug\net6.0\ref\Klaun.dll
