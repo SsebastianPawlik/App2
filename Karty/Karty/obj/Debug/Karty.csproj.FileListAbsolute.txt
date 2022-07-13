@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\Karty\Karty\bin\Debug\Karty.exe.config
+C:\Users\Praktykant\source\repos\Karty\Karty\bin\Debug\Karty.exe
+C:\Users\Praktykant\source\repos\Karty\Karty\bin\Debug\Karty.pdb
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.Form1.resources
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.exe
+C:\Users\Praktykant\source\repos\Karty\Karty\obj\Debug\Karty.pdb
