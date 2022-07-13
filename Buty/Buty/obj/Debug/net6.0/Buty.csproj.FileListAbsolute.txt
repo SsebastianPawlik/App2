@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\Buty\Buty\bin\Debug\net6.0\Buty.exe
+C:\Users\Praktykant\source\repos\Buty\Buty\bin\Debug\net6.0\Buty.deps.json
+C:\Users\Praktykant\source\repos\Buty\Buty\bin\Debug\net6.0\Buty.runtimeconfig.json
+C:\Users\Praktykant\source\repos\Buty\Buty\bin\Debug\net6.0\Buty.dll
+C:\Users\Praktykant\source\repos\Buty\Buty\bin\Debug\net6.0\Buty.pdb
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.dll
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\refint\Buty.dll
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.pdb
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\Buty.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\Buty\Buty\obj\Debug\net6.0\ref\Buty.dll
