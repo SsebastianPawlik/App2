@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.Form1.resources
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\bin\Debug\ModelDomu.exe.config
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\bin\Debug\ModelDomu.exe
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\bin\Debug\ModelDomu.pdb
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.exe
+C:\Users\Praktykant\source\repos\ModelDomu\ModelDomu\obj\Debug\ModelDomu.pdb
