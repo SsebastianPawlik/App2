@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\bin\Debug\net6.0\LosowyZestawKartKonsolowa.exe
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\bin\Debug\net6.0\LosowyZestawKartKonsolowa.deps.json
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\bin\Debug\net6.0\LosowyZestawKartKonsolowa.runtimeconfig.json
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\bin\Debug\net6.0\LosowyZestawKartKonsolowa.dll
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\bin\Debug\net6.0\LosowyZestawKartKonsolowa.pdb
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.dll
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\refint\LosowyZestawKartKonsolowa.dll
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.pdb
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\LosowyZestawKartKonsolowa.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\LosowyZestawKartKonsolowa\LosowyZestawKartKonsolowa\obj\Debug\net6.0\ref\LosowyZestawKartKonsolowa.dll
