@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\bin\Debug\PrzenoszenieKart.exe.config
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\bin\Debug\PrzenoszenieKart.exe
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\bin\Debug\PrzenoszenieKart.pdb
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.Form1.resources
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.exe
+C:\Users\Praktykant\source\repos\PrzenoszenieKart\PrzenoszenieKart\obj\Debug\PrzenoszenieKart.pdb
