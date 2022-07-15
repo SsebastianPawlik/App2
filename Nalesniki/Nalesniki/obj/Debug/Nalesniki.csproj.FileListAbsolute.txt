@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\bin\Debug\Nalesniki.exe.config
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\bin\Debug\Nalesniki.exe
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\bin\Debug\Nalesniki.pdb
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.Form1.resources
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.exe
+C:\Users\Praktykant\source\repos\Nalesniki\Nalesniki\obj\Debug\Nalesniki.pdb
