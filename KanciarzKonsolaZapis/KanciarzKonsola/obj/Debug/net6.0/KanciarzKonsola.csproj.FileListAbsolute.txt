@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\bin\Debug\net6.0\KanciarzKonsola.exe
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\bin\Debug\net6.0\KanciarzKonsola.deps.json
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\bin\Debug\net6.0\KanciarzKonsola.runtimeconfig.json
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\bin\Debug\net6.0\KanciarzKonsola.dll
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\bin\Debug\net6.0\KanciarzKonsola.pdb
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.dll
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\refint\KanciarzKonsola.dll
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.pdb
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\KanciarzKonsola.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\KanciarzKonsola\KanciarzKonsola\obj\Debug\net6.0\ref\KanciarzKonsola.dll
