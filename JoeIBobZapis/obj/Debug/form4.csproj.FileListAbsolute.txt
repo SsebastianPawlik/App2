@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\JoeIBobZapis\bin\Debug\form4.exe.config
+C:\Users\Praktykant\source\repos\JoeIBobZapis\bin\Debug\form4.exe
+C:\Users\Praktykant\source\repos\JoeIBobZapis\bin\Debug\form4.pdb
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.Form1.resources
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.exe
+C:\Users\Praktykant\source\repos\JoeIBobZapis\obj\Debug\form4.pdb
