@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\bin\Debug\ZapisOdczyt.exe.config
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\bin\Debug\ZapisOdczyt.exe
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\bin\Debug\ZapisOdczyt.pdb
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.Form1.resources
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.exe
+C:\Users\Praktykant\source\repos\ZapisOdczyt\ZapisOdczyt\obj\Debug\ZapisOdczyt.pdb
