@@ -1,0 +1,15 @@
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\bin\Debug\net6.0\KapitanKonsolowaOdczyt.exe
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\bin\Debug\net6.0\KapitanKonsolowaOdczyt.deps.json
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\bin\Debug\net6.0\KapitanKonsolowaOdczyt.runtimeconfig.json
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\bin\Debug\net6.0\KapitanKonsolowaOdczyt.dll
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\bin\Debug\net6.0\KapitanKonsolowaOdczyt.pdb
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.dll
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\refint\KapitanKonsolowaOdczyt.dll
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.pdb
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\KapitanKonsolowaOdczyt.genruntimeconfig.cache
+C:\Users\Praktykant\source\repos\KapitanKonsolowaOdczyt\KapitanKonsolowaOdczyt\obj\Debug\net6.0\ref\KapitanKonsolowaOdczyt.dll
