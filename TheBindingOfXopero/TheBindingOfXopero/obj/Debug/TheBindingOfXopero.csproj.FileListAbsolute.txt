@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\bin\Debug\TheBindingOfXopero.exe.config
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\bin\Debug\TheBindingOfXopero.exe
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\bin\Debug\TheBindingOfXopero.pdb
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.Form1.resources
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.exe
+C:\Users\Praktykant\source\repos\TheBindingOfXopero\TheBindingOfXopero\obj\Debug\TheBindingOfXopero.pdb
