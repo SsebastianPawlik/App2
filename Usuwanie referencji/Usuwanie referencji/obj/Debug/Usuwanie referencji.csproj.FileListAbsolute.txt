@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\bin\Debug\Usuwanie referencji.exe.config
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\bin\Debug\Usuwanie referencji.exe
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\bin\Debug\Usuwanie referencji.pdb
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie_referencji.Form1.resources
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie_referencji.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.exe
+C:\Users\Praktykant\source\repos\Usuwanie referencji\Usuwanie referencji\obj\Debug\Usuwanie referencji.pdb
