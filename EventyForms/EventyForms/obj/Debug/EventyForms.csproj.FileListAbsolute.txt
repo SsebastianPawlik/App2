@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\bin\Debug\EventyForms.exe.config
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\bin\Debug\EventyForms.exe
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\bin\Debug\EventyForms.pdb
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.Form1.resources
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.exe
+C:\Users\Praktykant\source\repos\EventyForms\EventyForms\obj\Debug\EventyForms.pdb
