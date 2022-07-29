@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\bin\Debug\DelegatFORMS.exe.config
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\bin\Debug\DelegatFORMS.exe
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\bin\Debug\DelegatFORMS.pdb
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.Form1.resources
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.exe
+C:\Users\Praktykant\source\repos\DelegatFORMS\DelegatFORMS\obj\Debug\DelegatFORMS.pdb
