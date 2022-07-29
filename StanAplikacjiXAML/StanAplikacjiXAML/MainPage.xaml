@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="StanAplikacjiXAML.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StanAplikacjiXAML"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Grid.Row="1" Margin="120,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel x:Name="panel" PointerPressed="Stack_PointerPressed">
+            <Border BorderThickness="10" BorderBrush="Blue" Width="155" x:Name="border" Margin="20" PointerPressed="Border_PointerPressed">
+                <Grid x:Name="grid" PointerPressed="Grid_PointerPressed">
+                    <Ellipse Fill="red" Width="100" Height="100" PointerPressed="Ellipse_PointerPressed"/>
+                    <Rectangle Fill="DarkSlateGray" Width="50" Height="50" PointerPressed="Rectangle_PointerPressed" x:Name="grayRectangle"/>
+                </Grid>
+            </Border>
+            <ListBox BorderThickness="1" Width="300" Height="250" x:Name="output" Margin="0,0,20,0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <ToggleSwitch Header="Border" x:Name="borderSetsHandled" OffContent="Wyłączone" OnContent="Włączone" Toggled="borderSetsHandled_Toggled"/>
+            <ToggleSwitch Header="Grid" x:Name="gridSetsHandled" OffContent="Wyłączone" OnContent="Włączone" Toggled="gridSetsHandled_Toggled"/>
+            <ToggleSwitch Header="Ellipse" x:Name="ellipseSetsHandled" OffContent="Wyłączone" OnContent="Włączone" Toggled="ellipseSetsHandled_Toggled"/>
+            <ToggleSwitch Header="Rectangle" x:Name="rectangleSetsHandled" OffContent="Wyłączone" OnContent="Włączone" Toggled="rectangleSetsHandled_Toggled"/>
+            <Button Content="IsHitTestVisible" Click="UpdateHitTestButton" Margin="0,20,20,0"/>
+            <ToggleSwitch IsOn="True" Header="Nowa wartość IsHitTestVisable" x:Name="newHitTestVisableValue" OffContent="Wyłączona" OnContent="Włączona" Toggled="newHitTestVisableValue_Toggled"/>
+        </StackPanel>
+    </Grid>
+</Page>
